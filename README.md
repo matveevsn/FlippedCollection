@@ -1,0 +1,2 @@
+# FlippedCollection
+Simple flipped collection
